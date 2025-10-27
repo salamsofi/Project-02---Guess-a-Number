@@ -32,4 +32,3 @@ while True:
     else :
         no_of_guesses += 1
         print("You have guessed wrong number.\nPlease enter higher number")
-
